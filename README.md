@@ -1,6 +1,6 @@
-<div align="center">
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading</p>
-	<br>
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ocavue&show_icons=true&hide_title=true" />
+
+- Using TypeScript, Python and Go 
+- Focusing one [Rino](https://rino.app)
+- Twitter: @ocavue
+- Blog: https://ocavue.com
