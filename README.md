@@ -2,6 +2,6 @@
 
 
 - :blue_book: **TypeScript**, **Python** and **Go**
-- :page_facing_up: Core team member **[remirror](https://github.com/remirror/remirror)**
+- :page_facing_up: Core team member at **[remirror](https://github.com/remirror/remirror)**
 - :pencil2:	Focusing on **[Rino](https://rino.app)**
 - :star2:	Twitter: **[@ocavue](https://twitter.com/ocavue)**
